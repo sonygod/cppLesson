@@ -1,0 +1,9 @@
+/Debug
+/usecpp/Debug
+/Release
+/usecpp/Release
+/usecpp/x64
+/.vs
+/usecpp/what.json
+/CMake
+/build
